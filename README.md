@@ -31,4 +31,7 @@ Planning notes, sketches, and creative assets will be added soon to showcase the
 ## 💬 Contact
 Questions, feedback, or boutique compliments? Reach out via GitHub Issues or pull requests.
 
+## 🌟 Credits
+
+See [CREDITS.md](CREDITS.md) for a full list of tools, shoutouts, and boutique sparkle.
 
